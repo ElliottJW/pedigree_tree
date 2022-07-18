@@ -1,3 +1,9 @@
+/// Copyright (c) 2022, elliott.jacobsen-watts
+/// All rights reserved.
+///
+/// This source code is licensed under the BSD-style license found in the
+/// LICENSE file in the root directory of this source tree.
+
 import 'package:json_annotation/json_annotation.dart';
 import 'package:pedigree_tree/data/model/condition.dart';
 
